@@ -1,2 +1,3 @@
-# CSC234
-CSC 234 FA21
+CSC 234
+
+Michael Pipkin II
